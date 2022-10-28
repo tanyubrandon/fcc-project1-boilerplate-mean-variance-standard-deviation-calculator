@@ -7,7 +7,7 @@ def calculate(list):
     # list = np.array(list).reshape((3,3))
 
     list = np.array(list)
-
+     # Reshapping array
     list = list.reshape((3,3))
     
     
